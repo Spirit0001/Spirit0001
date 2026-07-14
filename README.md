@@ -95,7 +95,7 @@ Interactive digital twin using React, Node.js and ESP32.
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Portfolio & Socials 
 
 🎮 itch.io
 https://spirit007.itch.io/
@@ -104,10 +104,6 @@ https://spirit007.itch.io/
 https://www.linkedin.com/in/dito-junior-9250a3380
 
 ---
-
-## 📫 Contact
-📧 deajunior15@gmail.com
-
 <!--
 **Spirit0001/Spirit0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
